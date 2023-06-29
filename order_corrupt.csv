@@ -1,0 +1,101 @@
+order_id,customer_id,order_date,total_amount,payment_type,shipping_address,order_status,product_id,quantity,unit_price
+1,121,1652196488,225,credit card,"937 Main St, Cleveland, OH",pending,789,3,75
+2,145,1669212963,250,credit card,"595 Main St, Chicago, IL",delivered,456,5,50
+3,123,1643716090,125,cash,"999 Main St, Denver, CO",pending,l23,5,25
+4,154,1649746198,350,credit card,"794 Main St, Cleveland, OH",delivered,456,7,50
+5,175,1646029578,525,cash,"478 Main St, Cleveland, OH",shipped,789,7,75
+6,115,1670881753,450,credit card,"363 Main St, Detroit, MI",delivered,789,6,75
+7,166,1664058530,800,bank transfer,"525 Main St, Atlanta, GA",delivered,321,8,100
+8,136,1643428519,25,bank transfer,"764 Main St, Baltimore, MD",delivered,123,11,25
+9,147,1669080326,500,bank transfer,"265 Main St, Baltimore, MD",shipped,456,10,50
+10,184,1651543506,625,cash,"297 Main St, Boston, MA",pending,654,5,125
+11,149,1649539916,900,bank transfer,"418 Main St, Chicago, IL",delivered,321,9,100
+12,197,1665798663,175,bank transfer,"144 Main St, Baltimore, MD",pending,123,7,25
+13,115,1647649641,250,credit card,"937 Main St, Cleveland, OH",shipped,123,10,25
+14,183,1662756911,200,credit card,"145 Main St, Boston, MA",delivered,456,4,50
+15,194,1661006156,100,cash,"813 Main St, Boston, MA",pending,123,4,25
+16,177,1652772025,25,credit card,"365 Main St, Detroit, MI",pending,123,1,25
+17,163,1654557977,300,bank transfer,"290 Main St, Atlanta, GA",delivered,456,6,50
+18,138,1662669992,750,cash,"325 Main St, Cleveland, OH",delivered,654,6,125
+19,131,1646799218,100,cash,"433 Main St, Atlanta, GA",pending,321,1,100
+20,192,1647658599,75,cash,"982 Main St, Detroit, MI",shipped,789,1,75
+21,187,1642976445,600,bank transfer,"854 Main St, Boston, MA",pending,789,8,75
+22,138,1644773184,300,cash,"137 Main St, Denver, CO",shipped,321,3,100
+23,148,1669563004,225,bank transfer,"131 Main St, Atlanta, GA",delivered,789,3,75
+24,185,1642912419,300,cash,"371 Main St, Chicago, IL",pending,321,3,l00.0
+25,185,1647676818,525,cash,"953 Main St, Boston, MA",shipped,789,7,75
+26,103,1647277080,600,cash,"504 Main St, Denver, CO",shipped,321,6,100
+27,159,1656374438,25,bank transfer,"842 Main St, Cleveland, OH",delivered,123,l,25
+28,179,1645641431,625,credit card,"754 Main St, Denver, CO",pending,654,5,125
+29,114,1672434885,1125,cash,"869 Main St, Boston, MA",shipped,654,9,125
+30,124,1648106223,625,credit card,"941 Main St, Detroit, MI",shipped,654,5,125
+31,200,1658023586,200,cash,"249 Main St, Baltimore, MD",pending,456,4,50
+32,158,1655252271,250,bank transfer,"523 Main St, Atlanta, GA",delivered,456,5,50
+33,183,1661336553,375,credit card,"422 Main St, Baltimore, MD",shipped,654,3,125
+34,116,1655024463,100,cash,"814 Main St, Boston, MA",pending,123,4,25
+35,180,1644827983,50,credit card,"409 Main St, Denver, CO",shipped,456,1,50
+36,131,1656868025,675,bank transfer,"197 Main St, Cleveland, OH",pending,789,9,75
+37,172,1643377518,100,cash,"986 Main St, Baltimore, MD",shipped,456,2,50
+38,161,1667481249,175,bank transfer,"303 Main St, Cleveland, OH",shipped,123,7,25
+39,142,1656127400,1125,bank transfer,"818 Main St, Detroit, MI",shipped,654,9,125
+40,124,1670511881,875,bank transfer,"182 Main St, Denver, CO",shipped,654,7,125
+41,197,1656880145,100,credit card,"947 Main St, Detroit, MI",delivered,321,1,100
+42,156,1657907894,100,bank transfer,"883 Main St, Atlanta, GA",shipped,456,2,50
+43,175,1645445515,375,cash,"886 Main St, Cleveland, OH",shipped,654,3,125
+44,175,1650476189,125,credit card,"230 Main St, Denver, CO",pending,123,5,25
+45,174,1654701208,600,cash,"431 Main St, Boston, MA",delivered,321,6,100
+46,191,1651535907,450,cash,"692 Main St, Boston, MA",delivered,789,6,75
+47,101,1658183151,125,cash,"864 Main St, Atlanta, GA",pending,654,1,125
+48,181,1656955612,125,cash,"297 Main St, Atlanta, GA",pending,123,5,25
+49,195,1645284004,150,credit card,"590 Main St, Chicago, IL",pending,789,2,75
+50,103,1661635903,1000,cash,"419 Main St, Baltimore, MD",shipped,321,10,100
+51,170,1648206641,125,cash,"673 Main St, Cleveland, OH",pending,123,5,25
+52,141,1668070884,400,credit card,"565 Main St, Baltimore, MD",delivered,456,8,50
+53,120,1664296982,1000,cash,"386 Main St, Atlanta, GA",pending,321,10,100
+54,137,1661575848,250,bank transfer,"913 Main St, Denver, CO",pending,123,10,25
+55,112,1672152501,600,cash,"962 Main St, Boston, MA",delivered,321,6,100
+56,114,1655558633,200,bank transfer,"105 Main St, Baltimore, MD",pending,123,8,25
+57,148,1662822788,100,bank transfer,"223 Main St, Cleveland, OH",pending,456,2,50
+58,167,1658154903,225,bank transfer,"615 Main St, Chicago, IL",delivered,123,9,25
+59,125,1665512839,150,bank transfer,"661 Main St, Denver, CO",delivered,456,3,50
+60,184,1652127432,375,credit card,"434 Main St, Detroit, MI",delivered,654,3,125
+61,151,1671854130,225,cash,"836 Main St, Atlanta, GA",pending,789,3,75
+62,128,1664571991,150,bank transfer,"877 Main St, Baltimore, MD",pending,456,3,50
+63,192,1663639695,500,cash,"166 Main St, Cleveland, OH",shipped,654,4,125
+64,144,1670551823,100,credit card,"450 Main St, Cleveland, OH",shipped,123,4,25
+65,146,1644993295,150,cash,"421 Main St, Chicago, IL",pending,456,3,50
+66,175,1646442801,400,bank transfer,"144 Main St, Detroit, MI",pending,321,4,100
+67,184,1648522531,100,credit card,"127 Main St, Denver, CO",shipped,456,2,50
+68,100,1645690259,450,bank transfer,"367 Main St, Cleveland, OH",delivered,789,6,75
+69,155,1646918750,600,cash,"431 Main St, Denver, CO",shipped,789,8,75
+70,108,1642029641,900,cash,"426 Main St, Baltimore, MD",pending,321,9,100
+71,127,1672333405,375,cash,"790 Main St, Atlanta, GA",delivered,654,3,125
+72,188,1667379695,700,bank transfer,"625 Main St, Atlanta, GA",delivered,321,7,100
+73,153,1654363285,100,credit card,"554 Main St, Cleveland, OH",shipped,123,4,25
+74,191,1670543467,50,credit card,"224 Main St, Chicago, IL",pending,456,1,50
+75,151,1665643729,200,credit card,"136 Main St, Baltimore, MD",delivered,456,4,50
+76,173,1664992085,525,bank transfer,"598 Main St, Cleveland, OH",shipped,789,7,75
+77,109,1659457364,750,credit card,"689 Main St, Cleveland, OH",shipped,789,10,75
+78,129,1649410838,1250,credit card,"741 Main St, Atlanta, GA",pending,654,10,125
+79,128,1658096551,750,credit card,"649 Main St, Cleveland, OH",pending,789,10,75
+80,136,1650014375,125,bank transfer,"598 Main St, Detroit, MI",pending,123,5,25
+81,154,1644935891,225,bank transfer,"183 Main St, Detroit, MI",delivered,789,3,75
+82,134,1644959737,100,credit card,"868 Main St, Chicago, IL",pending,321,1,100
+83,162,1664841732,200,credit card,"735 Main St, Baltimore, MD",delivered,321,2,100
+84,141,1650693278,750,cash,"945 Main St, Chicago, IL",delivered,654,6,125
+85,142,1660666891,250,bank transfer,"532 Main St, Atlanta, GA",pending,123,10,25
+86,101,1668543153,100,cash,"998 Main St, Atlanta, GA",pending,321,1,100
+87,160,1648678447,375,bank transfer,"327 Main St, Cleveland, OH",delivered,654,3,125
+88,137,1665034794,200,cash,"708 Main St, Baltimore, MD",delivered,321,2,100
+89,130,1645978834,350,cash,"800 Main St, Boston, MA",pending,456,7,50
+90,146,1659461309,225,credit card,"189 Main St, Atlanta, GA",pending,123,9,25
+91,111,1673044712,75,cash,"404 Main St, Boston, MA",shipped,789,1,75
+92,146,1668300244,1250,cash,"394 Main St, Chicago, IL",delivered,654,10,125
+93,155,1670800585,625,credit card,"676 Main St, Baltimore, MD",delivered,654,5,125
+94,127,1662118522,300,bank transfer,"256 Main St, Chicago, IL",shipped,456,6,50
+95,122,1659562815,225,cash,"499 Main St, Boston, MA",pending,789,3,75
+96,161,1672897041,100,cash,"194 Main St, Detroit, MI",shipped,321,1,100
+97,177,1646495462,100,credit card,"265 Main St, Detroit, MI",delivered,456,2,50
+98,177,1646741606,100,cash,"334 Main St, Baltimore, MD",delivered,123,4,25
+99,181,1643865074,100,credit card,"997 Main St, Baltimore, MD",pending,321,1,100
+100,194,1656344283,625,credit card,"147 Main St, Boston, MA",delivered,654,5,125
